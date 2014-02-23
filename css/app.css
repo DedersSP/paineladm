@@ -1,0 +1,13 @@
+.loginform{margin-top: 230px;}
+.alert-box p{margin: 0 !important;}
+.espaco{margin-right: 10px;}
+/* tabelas */
+table.data-table{margin-bottom: -2px; }
+a.table-actions{width: 16px; height: 16px; display: inline-block; background-position: center center; background-repeat: no-repeat; margin-right: 3px;}
+.table-edit{background: url("../images/actions-edit.png");}
+.table-pass{background: url("../images/actions-pass.png");}
+.table-delete{background: url("../images/actions-delete.png");}
+th.sorting_asc{background: url("../images/order-asc.png") right center no-repeat;}
+th.sorting_desc{background: url("../images/order-desc.png") right center no-repeat;}
+
+
